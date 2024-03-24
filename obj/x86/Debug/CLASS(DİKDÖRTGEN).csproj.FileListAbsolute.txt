@@ -1,0 +1,7 @@
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\bin\Debug\CLASS(DİKDÖRTGEN).exe
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\bin\Debug\CLASS(DİKDÖRTGEN).pdb
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\obj\x86\Debug\CLASS_DİKDÖRTGEN_.Form1.resources
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\obj\x86\Debug\CLASS_DİKDÖRTGEN_.Properties.Resources.resources
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\obj\x86\Debug\CLASS(DİKDÖRTGEN).csproj.GenerateResource.Cache
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\obj\x86\Debug\CLASS(DİKDÖRTGEN).exe
+C:\Users\Win10\Desktop\nesne\CLASS(DİKDÖRTGEN)\CLASS(DİKDÖRTGEN)\obj\x86\Debug\CLASS(DİKDÖRTGEN).pdb
